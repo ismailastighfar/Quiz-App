@@ -1,2 +1,2 @@
 # Quiz-App
-# bulit a quiz with javascript
+# built a quiz with javascript
